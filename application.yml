@@ -12,7 +12,7 @@ spring:
   application:
         name: springcloud-config-client-dev
 server:
-  port: 8082
+  port: 8084
   
 ---
 spring:
