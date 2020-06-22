@@ -1,7 +1,9 @@
 spring:
   profiles:
     active: test
-    
+foo:
+    version: 1
+
 ---
 spring:
   profiles: dev
