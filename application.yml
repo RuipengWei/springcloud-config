@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: test
+    active: dev
 foo:
     version: 1
 
@@ -19,4 +19,3 @@ spring:
         name: springcloud-config-client-test
 server:
   port: 8083
-    
